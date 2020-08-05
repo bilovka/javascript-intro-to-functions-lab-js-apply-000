@@ -12,13 +12,10 @@ function logWhisper(string){
 }
 
 function sayHiToGrandma(string){
-
   var uppercase = "HELLO!"
-   string.toUpperCase === uppercase
+  string.toUpperCase === uppercase
   return "YES INDEED!"
-  
-  
-  var mixedcase = "I love you, Granma."
-  
 
-  }
+  
+  
+}
