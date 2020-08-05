@@ -17,7 +17,7 @@ function sayHiToGrandma(string){
   return "YES INDEED!"
 
   var lowercase = 'hello!'
- 
-lowercase.toLowerCase() === lowercase
+  lowercase.toLowerCase() === lowercase
+  return ""
   
 }
