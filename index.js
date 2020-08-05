@@ -22,7 +22,6 @@ uppercase === string
 lowercase === string
 return "I can't hear you!"
 
-mixedCase.toLowerCase() === mixedCase
-mixedCase.toUpperCase() === mixedCase 
-return 
+mixedcase === string
+return "I love you, too."
 }
