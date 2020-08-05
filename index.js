@@ -12,7 +12,7 @@ function logWhisper(string){
 }
 function sayHiToGranma(string){
   var uppercase = "HELLO!"
+  uppercase.toUpperCase() === uppercase 
   var lowercase = "hello!"
   var mixedcase = "Hi there" 
-  if sayHiToGranma() === lowercase  return "I can't hear you!"
 }
