@@ -19,11 +19,10 @@ function sayHiToGrandma(string){
   //string.toUpperCase()===uppercase
   //return "YES INDEED!"
   
-  if(string.toLowerCase()===lowercase)
-  return "I can't hear you"
+  string.toLowerCase()===lowercase
+  return "I can\'t hear you"
   
   string.toLowerCase()===mixedcase
-  string.toUpperCase()===mixedcase
   return "I love you, too"
 
 }
