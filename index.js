@@ -14,5 +14,5 @@ function sayHiToGranma(string){
   var uppercase = "HELLO!"
   var lowercase = "hello!"
   var mixedcase = "Hi there"
-  if string
+  if string === lowercase return "I ca"
 }
