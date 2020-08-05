@@ -16,12 +16,12 @@ function sayHiToGrandma(string){
   var lowercase = "hello"
   var mixedcase = "I love you, Granma"
   
-if (string == uppercase)
+if (string.toUpperCase === uppercase)
   return "YES INDEED!"
 
-if(string == lowercase)
+if(string.toLowerCase === lowercase)
 return 'I can\'t hear you!'
 
-if(string == mixedcase)
+if(string === mixedcase)
 return 'I love you, too.'
 }
