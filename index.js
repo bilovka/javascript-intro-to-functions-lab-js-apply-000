@@ -10,6 +10,9 @@ function logShout(string){
 function logWhisper(string){
   console.log(string.toLowerCase())
 }
-function sayHiToGranma(){
+function sayHiToGranma(string){
   var uppercase = "HELLO!"
+  var lowercase = "hello!"
+  var mixedcase = "Hi there"
+  if string
 }
