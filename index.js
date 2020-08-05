@@ -25,3 +25,16 @@ function sayHiToGrandma(string){
   mixedCase.toUpperCase() === mixedCase
   return"I love you, too"
 }
+function sayHiToGrandma(string){
+  var uppercase = "HELLO!"
+  if (uppercase.toUpperCase() === uppercase )
+  return "YES INDEED!"
+  }
+  
+  function sayHiToGrandma(string){
+  var mixedcase = "Hi there" 
+  if (mixedCase.toLowerCase() === mixedCase)
+  return "I love you, too"
+  mixedCase.toUpperCase() === mixedCase
+  return"I love you, too"
+}
