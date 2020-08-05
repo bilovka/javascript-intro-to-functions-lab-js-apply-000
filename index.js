@@ -22,6 +22,7 @@ function sayHiToGrandma(string){
   string.toLowerCase()===lowercase
   return "I can't hear you"
   
-  string.
+  string.toLowerCase()===mixedcase
+  return "I love you, too"
 
 }
