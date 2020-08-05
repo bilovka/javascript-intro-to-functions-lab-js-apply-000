@@ -14,5 +14,6 @@ function sayHiToGranma(string){
   var uppercase = "HELLO!"
   uppercase.toUpperCase() === uppercase 
   var lowercase = "hello!"
+  lowercase.toLowerCase() === lowercase 
   var mixedcase = "Hi there" 
 }
