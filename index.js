@@ -22,6 +22,6 @@ if (string == uppercase)
 if(string == lowercase)
 return "I can't hear you!"
 
-mixedcase === string
+if(string === mixedcase)
 return "I love you, too."
 }
